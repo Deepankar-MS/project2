@@ -1,4 +1,4 @@
-"""proj2 - Depends on proj1."""
+"""project2 - Depends on project1."""
 
 __version__ = "1.0.0"
 
